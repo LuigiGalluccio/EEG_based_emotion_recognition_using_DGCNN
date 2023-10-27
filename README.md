@@ -15,4 +15,8 @@ An **RGNN** is a type of Neural Network architecture designed for processing and
 ```
 python script_name.py num_epochs ./train_fold
 ```
+For example:
+```
+python dgcnn.py 100 my_first_train
+```
 
