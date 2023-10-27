@@ -11,4 +11,8 @@ An **RGNN** is a type of Neural Network architecture designed for processing and
 * torchaudio == 0.12.1
 * torcheeg == 1.0.11
 
+## Run code
+```
+python script_name.py num_epochs ./train_fold
+```
 
