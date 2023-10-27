@@ -1,6 +1,5 @@
-# Regularized Graph Neural Network
-An **RGNN** is a type of Neural Network architecture designed for processing and analyzing graph-structured data.
-  This implementation uses the dropout technique to reduce the risks of overfitting during the training phase.
+# Dynamical Graph Convolutional Neural Network
+The **DGCNN** is a specific graph neural network architecture that leverages dynamic learning to extract patterns from graph-structured data that can dynamically change over time.
 
 ## Modules versions
 * tensorboard == 2.13.0
