@@ -27,6 +27,6 @@ python dgcnn.py 100 my_first_train
 
 ## Run Tensorboard
 ```
-tensorboard --logdir=/path/to/train_fold --bind_all --port=<number_of_the_port>
+tensorboard --logdir=/path/to/train_folder --bind_all --port=<number_of_the_port>
 ```
 
