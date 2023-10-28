@@ -1,6 +1,12 @@
 # Dynamical Graph Convolutional Neural Network
 The **DGCNN** is a specific graph neural network architecture that leverages dynamic learning to extract patterns from graph-structured data that can dynamically change over time.
 
+
+## Dataset SEED-IV
+The model has been trained using public dataset SEED-IV, in particular we used two features:
+* Differencial entropy
+* Power spectral density
+
 ## Modules versions
 * tensorboard == 2.13.0
 * tensorflow == 2.13.0
