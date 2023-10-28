@@ -8,13 +8,13 @@ The model has been trained using public dataset SEED-IV, in particular we used t
 * Power spectral density
 
 ## Modules versions
-* tensorboard
-* tensorflow
-* torch
-* torch-geometric
-* torch-scatter
-* torchaudio
-* torcheeg
+* ```tensorboard```
+* ```tensorflow```
+* ```torch```
+* ```torch-geometric```
+* ```torch-scatter```
+* ```torchaudio```
+* ```torcheeg```
 
 ## Run code
 ```
